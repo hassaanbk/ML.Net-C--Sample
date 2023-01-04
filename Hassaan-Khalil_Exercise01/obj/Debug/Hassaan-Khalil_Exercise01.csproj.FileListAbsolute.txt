@@ -1,0 +1,8 @@
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\bin\Debug\Hassaan-Khalil_Exercise01.exe.config
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\bin\Debug\Hassaan-Khalil_Exercise01.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\bin\Debug\Hassaan-Khalil_Exercise01.pdb
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\obj\Debug\Hassaan-Khalil_Exercise01.csproj.AssemblyReference.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\obj\Debug\Hassaan-Khalil_Exercise01.csproj.SuggestedBindingRedirects.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\obj\Debug\Hassaan-Khalil_Exercise01.csproj.CoreCompileInputs.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\obj\Debug\Hassaan-Khalil_Exercise01.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212_Sec004_Lab05\Hassaan-Khalil_Exercise01\obj\Debug\Hassaan-Khalil_Exercise01.pdb
